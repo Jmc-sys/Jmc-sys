@@ -41,9 +41,5 @@ Contribution Graph
 
 Pinned Repositories
 
-Budget App
-Spyra ESP32
-Home Lab
-Algorithms
 Portfolio Website
 -------------------------------------------------
