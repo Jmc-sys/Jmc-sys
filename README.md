@@ -1,9 +1,51 @@
-- 👋 Hi, I’m @Jmc-sys
-- 👀 I’m interested in building home automation setups, 3d printing, and raspberry pi projects for random stuff.
-- 🌱 I’m currently learning everything required for my BS in Computer Science.
+When someone visits your profile, it should look like this:
 
+-------------------------------------------------
+👋 Hi, I'm Jeff Cox
 
-<!---
-Jmc-sys/Jmc-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science Student
+Olympic College
+
+CompTIA A+ Certified
+Software Developer
+Linux Enthusiast
+Embedded Systems
+Cloud Computing
+
+Current Projects
+----------------
+💰 Budget Application
+🔫 ESP32 Water Blaster
+🌱 Lawn Irrigation Automation
+🖥️ Home Server Lab
+
+Tech Stack
+
+Python
+C++
+Java
+JavaScript
+HTML
+CSS
+Node.js
+React
+MySQL
+Docker
+Linux
+Git
+Arduino
+ESP32
+AWS
+
+GitHub Stats
+
+Contribution Graph
+
+Pinned Repositories
+
+Budget App
+Spyra ESP32
+Home Lab
+Algorithms
+Portfolio Website
+-------------------------------------------------
