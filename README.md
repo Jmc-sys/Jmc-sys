@@ -1,5 +1,3 @@
-When someone visits your profile, it should look like this:
-
 -------------------------------------------------
 👋 Hi, I'm Jeff Cox
 
