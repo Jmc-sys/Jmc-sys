@@ -1,19 +1,25 @@
--------------------------------------------------
-👋 Hi, I'm Jeff Cox
+👋 Hi, I'm Jeff
 
-Computer Science Student
-Olympic College
 
-CompTIA A+ Certified
-Software Developer
-Linux Enthusiast
-Embedded Systems
-Cloud Computing
+## About Me
+🎓 Computer Science Student at Olympic College
+
+💻 Interested in Software Engineering
+
+⚙️ Embedded Systems
+
+☁️ Learning AWS
+
+🐧 Linux Enthusiast
+
+🏠 Home Lab Builder
+
+---
 
 Current Projects
 ----------------
-💰 Budget Application
-🔫 ESP32 Water Blaster
+💰 Budget Web Application
+🔫 ESP32 Water Blaster 
 🌱 Lawn Irrigation Automation
 🖥️ Home Server Lab
 
